@@ -81,7 +81,7 @@ p = Pars()
 nameFile = 'index.html'
 
 # Получаем html страницу
-p.getDinamicPage(nameFile, 'https://duckduckgo.com/?q=теплица+социальных+технологий+youtube&iar=videos&atb=v454-1', closeWindow=0)
+p.getDynamicPage(nameFile, 'https://duckduckgo.com/?q=теплица+социальных+технологий+youtube&iar=videos&atb=v454-1', closeWindow=0)
 
 # Получаем объект BautifullSoup
 soup = p.returnBs4Object(nameFile)
