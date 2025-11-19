@@ -339,6 +339,4 @@ z.zip_file('./your_file.txt', 'file_archive_maximum.zip')
 z.zip_folder('./your_folder/', 'folder_archive_maximum.zip')
 ```
 
-Если ты дочитал(-а) документацию до конца, то получай пожизненный запас здоровья❤. Помни, оно у тебя одно.
 
-+999999 HP
